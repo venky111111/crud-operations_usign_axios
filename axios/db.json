@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "syam",
+      "branch": "Mech"
+    },
+    {
+      "id": 2,
+      "name": "maniKanta Ayinam",
+      "branch": "Mech"
+    },
+    {
+      "id": 3,
+      "name": "kiran",
+      "branch": "EEE"
+    },
+    {
+      "id": 4,
+      "name": "mahesh",
+      "branch": "mech"
+    }
+  ]
+}
